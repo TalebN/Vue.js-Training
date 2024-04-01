@@ -1,5 +1,10 @@
 # vue-1.1
 
+## Description
+This project is a demonstration of using VUEX
+
+## Execution Demo
+![Texte alternatif](image.png)
 ## Project setup
 ```
 npm install
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
