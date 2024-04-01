@@ -1,5 +1,11 @@
 # vue-http
 
+## Description
+This project is a demonstration of using Lifecycle hooks and axios
+
+## Execution Demo
+![Texte alternatif](image-http.png)
+
 ## Project setup
 ```
 npm install
@@ -19,6 +25,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
